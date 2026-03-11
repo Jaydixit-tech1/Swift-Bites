@@ -1,34 +1,43 @@
-🍔 SwiftBites – Food Delivery Website
+# 🍔 SwiftBites – Food Delivery Website
 
-⚡ SwiftBites is a modern food delivery web application designed to provide a fast and seamless online ordering experience. Users can browse restaurants, explore menus, add food to cart, and place orders easily.
+⚡ **SwiftBites** is a modern food delivery web application designed to provide a fast and seamless online ordering experience.  
+Users can browse restaurants, explore menus, add food to cart, and place orders easily.
 
-✨ Features
+---
 
-✔️ Clean and responsive UI
-✔️ Browse restaurants and food menus
-✔️ 🛒 Add items to cart
-✔️ 🔐 User authentication (Login / Signup)
-✔️ 📦 Order management and tracking
-✔️ ⚡ Fast checkout experience
+## ✨ Features
 
-🛠️ Tech Stack
+- ✔️ Clean and responsive UI  
+- ✔️ Browse restaurants and food menus  
+- ✔️ 🛒 Add items to cart  
+- ✔️ 🔐 User authentication (Login / Signup)  
+- ✔️ 📦 Order management and tracking  
+- ✔️ ⚡ Fast checkout experience  
 
-💻 Frontend
+---
 
-HTML
+## 🛠️ Tech Stack
 
-CSS
+### 💻 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
 
-JavaScript
+### ⚙️ Backend
+- Node.js  
+- Express.js  
 
-React.js
+### 🗄️ Database
+- MongoDB / MySQL  
 
-⚙️ Backend
+---
 
-Node.js
+## 🎯 Project Goal
+🚀 Build a fast, scalable, and user-friendly food ordering platform that improves the digital food delivery experience.
 
-Express.js
+---
 
-🗄️ Database
-
-MongoDB / MySQL
+## 👨‍💻 Author
+**Jay Dixit**  
+🎓 BCA Student | 💻 Web Developer | 🚀 Tech Enthusiast
